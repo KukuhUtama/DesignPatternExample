@@ -1,3 +1,4 @@
+org\personal\design\adapterpattern\Sorter.class
 org\personal\design\factorypattern\SocialMedia.class
 org\personal\desingpattern\singleton\EagerInit.class
 org\personal\design\factorypattern\SocialMediaFactory.class
@@ -11,7 +12,9 @@ org\personal\design\facadepattern\FacadeClient.class
 org\personal\design\factorypattern\SocialMediaType.class
 org\personal\design\facadepattern\HappyButton.class
 org\personal\design\facadepattern\FacadeHelper.class
+org\personal\design\adapterpattern\NumberSorter.class
 org\personal\design\facadepattern\PanicButton.class
 org\personal\desingpattern\singleton\LazyInit.class
 org\personal\design\factorypattern\Facebook.class
 org\personal\desingpattern\singleton\StaticBlockInit.class
+org\personal\design\adapterpattern\SortListAdapter.class
