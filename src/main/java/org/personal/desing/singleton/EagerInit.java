@@ -1,4 +1,4 @@
-package org.personal.desingpattern.singleton;
+package org.personal.desing.singleton;
 
 public class EagerInit {
 	private static volatile EagerInit instance = new EagerInit();

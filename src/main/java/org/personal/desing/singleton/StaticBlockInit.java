@@ -1,4 +1,4 @@
-package org.personal.desingpattern.singleton;
+package org.personal.desing.singleton;
 
 public class StaticBlockInit {
 	private static StaticBlockInit instance;
