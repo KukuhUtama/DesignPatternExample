@@ -1,4 +1,4 @@
-package org.personal.desing.singleton;
+package org.personal.design.singleton;
 
 public class LazyInit {
 	private static LazyInit instance;
